@@ -12,4 +12,4 @@ Before proceeding , please take note of a few points:
 - I ran the app on the iOS Simulator
 
 ### TL;DR
-![UIWebView](https://github.com/bakshioye/WebViewPerformanceCompairison/blob/master/UIWebView.png)             ![WKWebView](https://github.com/bakshioye/WebViewPerformanceCompairison/blob/master/WKWebView.png)
+![Comparison](https://github.com/bakshioye/WebViewPerformanceCompairison/blob/master/WebViewComparison.png)
